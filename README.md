@@ -19,3 +19,9 @@
 - Those that can, can be seen in your inventory
 - Below the inventory there's a place, where you can see the description of the latest item you picked up
 - You can click on an item in your inventory to see its description instead
+
+## Field types
+- Corridor - you can walk there
+- Rock - you can mine it
+- Bedrock - you can't mine it (unless you have a special item)
+- Lamp - you always see fields with a lamp; entering such fields does not cost money
