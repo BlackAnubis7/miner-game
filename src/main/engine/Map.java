@@ -29,7 +29,7 @@ public class Map {
             mapPanel.add(b[i].getButton());
         }
 
-        JFrame f = new JFrame("Title");
+        JFrame f = new JFrame("The Miner");
         f.setLayout(new BorderLayout());
         f.addKeyListener(new KeyListener());
         f.add(mapPanel, BorderLayout.CENTER);
