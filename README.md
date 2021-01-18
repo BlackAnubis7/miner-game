@@ -1,4 +1,6 @@
 # The Miner
+`class to execute: engine/Engine.java`
+
 ## Gameplay
 - You have limited fuel
 - The less fuel you have, the smaller is your range of view
